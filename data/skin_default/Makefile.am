@@ -3,7 +3,7 @@ SUBDIRS = menu icons buttons spinner LCDIcons
 installdir = $(pkgdatadir)/skin_default
 
 dist_install_DATA = \
-	anniversaryOpenPLi.png\
+	xtrend.png\
 	arrowdown.png \
 	arrowup.png \
 	bar_ber.png \
